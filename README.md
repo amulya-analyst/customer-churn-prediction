@@ -22,4 +22,4 @@ streamlit run app.py
 ```
 
 ## 🌐 Live Demo
-👉 [View App](your-streamlit-url-here](https://churn-prediction-crm.streamlit.app/))
+👉 [View App](https://churn-prediction-crm.streamlit.app/)
